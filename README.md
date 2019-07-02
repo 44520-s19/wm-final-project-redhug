@@ -13,7 +13,7 @@ The main purpose of this project is to find the most common words in the custome
 I want to find the most common words in reviews for products on online shopping site and compare their rating.
 
 ## Analysis techniques:
-Web Scarping , Word cloud
+Web Scraping , Word cloud
 
 ## Platform for mining:
 - Amazon platform.
